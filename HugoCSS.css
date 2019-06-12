@@ -35,3 +35,12 @@
 	width: 25%;
 
 }
+
+#CV {
+	position: absolute;
+	right: 300px;
+	margin: 0 -10%;
+	top: 400px;
+	width: 25%;
+		
+}

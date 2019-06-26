@@ -44,3 +44,11 @@
 	width: 100px;
 		
 }
+
+#bar {
+	position: absolute;
+	color: black;
+	height: 20px;
+	width: 150px;
+	
+}

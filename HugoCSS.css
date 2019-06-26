@@ -30,7 +30,7 @@
 #labbrapport_1 {
 	position: absolute;
 	right: 800px;
-	margin: 0 -10%;
+	margin: 0 -10px;
 	top: 100px;
 	width: 50px;
 
@@ -39,7 +39,7 @@
 #CV {
 	position: absolute;
 	right: 800px;
-	margin: 0 -10%;
+	margin: 0 -10px;
 	top: 200px;
 	width: 50px;
 		

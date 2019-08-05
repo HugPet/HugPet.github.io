@@ -1,11 +1,18 @@
 body {
+	font-size: 0,5vw;
 	background-color: white;
 	font-family: times new roman;
 
 }
 
 
+#intro {
+	text-align: center;
+
+}
+
 #btn1:link{
+	font-size: 0,5vw;
 	background-color:black;
 	color: white;
 	padding: 8px 15px;
@@ -15,6 +22,7 @@ body {
 	border: 1px solid silver;
 }
 #btn1:visited {
+	font-size: 0,5vw;
 	background-color:white;
 	color: black;
 	padding: 8px 15px;
@@ -30,39 +38,57 @@ body {
 
 #labbrapport_1 {
 	font-size: 0,5vw;
-	border: 2px solid #664400;
-    	border-top: 1px solid #664400;
+	border: 2px solid black;
+    	border-top: 1px solid black;
 	border-radius: 5px;
 	float: down;
  	display: block;
-	padding-left: 5px;
-	margin-left: 75%;
-	margin-right: 5%;
-	width: 25%;
+	padding: 0px 0px 5px 10px;
+	margin: 0% 5% 10px 70%;
+	width: 23%;
 	top: 12.5%;
 
 }
 
 #CV {
 	font-size: 0,5vw;
-	border: 2px solid #664400;
-    	border-top: 1px solid #664400;
+	border: 2px solid black;
+    	border-top: 1px solid black;
 	border-radius: 5px;
 	float: down;
  	display: block;
-	padding-left: 5px;
-	margin-left: 75%;
-	margin-right: 5%;
-	width: 75%;
-	top: 25%;
+	padding: 0px 0px 5px 10px;
+	margin: 0% 5% 10px 70%;
+	width: 23%;
+	top: 30%;
 	
 		
 }
 
+#git {
+	font-size: 0,5vw;
+	border: 2px solid black;
+    	border-top: 1px solid black;
+	border-radius: 5px;
+	float: down;
+ 	display: block;
+	padding: 0px 0px 5px 10px;
+	margin: 0% 5% 10px 70%;
+	width: 23%;
+	top: 47.5%;
+}
+
 #bar {
+	font-size: 0,5vw;
+	color: white;
 	position: absolute;
-	color: black;
-	height: 20px;
-	width: 150px;
+	background-color: black;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: 0% 0% 0% 69.5%;
+	padding-top: 5px;
+	text-align: center;
+	height: 10%;
+	width: 23%;
 	
 }

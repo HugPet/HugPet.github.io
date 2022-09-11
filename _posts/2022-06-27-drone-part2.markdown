@@ -21,6 +21,9 @@ By changing the parameters of the statistical outlier removal, we managed to imp
 For the creation of a mesh, it turned out to be a bit more complex than we thought. Our algorithm is now using a 
 bunch of other algorithms, such as DBSCAN clustering, line conversion, line connection, line decimation, and a home-brewed version of Ramer-Douglas-Peucker's algorithm.
 
+We sent in a paper for this to a conference in Spain, [ucami](https://www.ucami.org/). Fingers 
+crossed we get accepted!
+
 For the results of a mapping and post-processing, see the images below.
 
 <img src="/img/drone/part2/Exp_two_real.jpg" style="width: 50%; float: left">

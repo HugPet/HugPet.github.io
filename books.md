@@ -7,19 +7,6 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
-## The Female Man - Joanna Russ
-#### publ. 1975, read 2022-07
-<img class="bookimg" src="/img/books/TFM.jpg">
-
--- STILL READING --
-
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br>
-
 ## Ronja Rövardotter - Astrid Lindgren
 #### publ. 1981, read 2022-06
 <img class="bookimg" src="/img/books/RRD.jpg">

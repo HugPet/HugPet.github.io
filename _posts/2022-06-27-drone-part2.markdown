@@ -4,6 +4,7 @@ title:  "Point clouds and drones: Part two"
 date:   2022-06-27 13:00:00 +0200
 categories: drone mapping
 published: true
+excerpt_separator: <!--end_excerpt-->
 ---
 
 This is a continuation of a previous post, see [part one]({% post_url 2022-05-08-drone-mapping %}).
@@ -14,6 +15,8 @@ our previous solution. We set out with two primary goals
     <li> Reduce the human error while controlling the drone, so as to improve the data we collect from the drone.</li>
     <li> Improve and expand on the post-processing </li>
 </ol>
+
+<!--end_excerpt-->
 
 To reduce the human error of controlling the drone, we implemented some semi-autonomous functionality for controlling the drone.
 Instead of controlling the drone with the help of the drone's controller, we use the app, which has been updated with buttons for controlling the drone. The semi-autonomous functionality includes automatically rotating a certain amount, and driving forward one meter. 

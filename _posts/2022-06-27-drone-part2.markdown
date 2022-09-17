@@ -6,6 +6,8 @@ categories: drone mapping
 published: true
 ---
 
+This is a continuation of a previous post, see [part one]({% post_url 2022-05-08-drone-mapping %}).
+
 During the second half of spring 2022, some of the previous team decided to continue work on
 our previous solution. We set out with two primary goals
 <ol>
@@ -21,7 +23,7 @@ By changing the parameters of the statistical outlier removal, we managed to imp
 For the creation of a mesh, it turned out to be a bit more complex than we thought. Our algorithm is now using a 
 bunch of other algorithms, such as DBSCAN clustering, line conversion, line connection, line decimation, and a home-brewed version of Ramer-Douglas-Peucker's algorithm.
 
-We sent in a paper for this to a conference in Spain, [ucami](https://www.ucami.org/). Fingers 
+We sent in a paper for this to a conference in Spain, [UCAmI](https://www.ucami.org/). Fingers 
 crossed we get accepted!
 
 For the results of a mapping and post-processing, see the images below.

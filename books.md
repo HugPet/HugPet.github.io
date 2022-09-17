@@ -7,6 +7,18 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
+## Leviathan Wakes - James S. A. Corey
+#### publ. 2011, read 2022-09
+<img class="bookimg" src="/img/books/LWS.jpg">
+
+-- STILL READING --
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br>
+
 ## Ronja Rövardotter - Astrid Lindgren
 #### publ. 1981, read 2022-06
 <img class="bookimg" src="/img/books/RRD.jpg">

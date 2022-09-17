@@ -31,6 +31,8 @@ author: Hugo Pettersson
 
 imagesurl: "/img/"
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:

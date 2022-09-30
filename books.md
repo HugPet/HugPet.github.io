@@ -7,9 +7,10 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
-## Leviathan Wakes - James S. A. Corey
-#### publ. 2011, read 2022-09
-<img class="bookimg" src="/img/books/LWS.jpg">
+
+## Caliban's War - James S. A. Corey
+#### publ. 2012, read 2022-09
+<img class="bookimg" src="/img/books/CAW.jpg">
 
 -- STILL READING --
 
@@ -18,6 +19,24 @@ Here are some books I've read recently, and a short bit about what I thought of 
 <br><br><br><br>
 <br><br><br><br>
 <br>
+
+## Leviathan Wakes - James S. A. Corey
+#### publ. 2011, read 2022-09
+<img class="bookimg" src="/img/books/LWS.jpg">
+
+*"Compared to the whole, it seemed no larger than a toe, a little finger. It was Captain Darren's head."*
+
+The first book in The Exapnse series, an interesting blend of sci-fi, noir and horror. 
+What I liked most about this book was the two point-of-view characters. Holden and Miller
+are appealing characters in their own rights, but together they create a nice contrast
+between idealism and cynisism. I also found the book surprisingly heart warming at times,
+which I thought was very nice. I generally dislike books that are overly pesimistic.
+
+I think this is a promising start to the series, and I am excited to continue reading.
+
+
+<br><br><br><br>
+
 
 ## Ronja Rövardotter - Astrid Lindgren
 #### publ. 1981, read 2022-06

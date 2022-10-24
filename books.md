@@ -7,18 +7,30 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
+## Abaddon's Gate - James S. A. Corey
+#### publ. 2013, read 2022-10
+<img class="bookimg" src="/img/books/ABG.jpg">
 
-## Caliban's War - James S. A. Corey
-#### publ. 2012, read 2022-09
-<img class="bookimg" src="/img/books/CAW.jpg">
-
--- STILL READING --
+-- STILL READING -- 
 
 <br><br><br><br>
 <br><br><br><br>
 <br><br><br><br>
 <br><br><br><br>
 <br>
+
+## Caliban's War - James S. A. Corey
+#### publ. 2012, read 2022-09
+<img class="bookimg" src="/img/books/CAW.jpg">
+
+*"We're all traitors now."*
+
+An exciting sequel that properly establishes the scope of the series. 
+It has a little bit less noir, and a little bit more political intrigue. I think what I appreciated most in this book was the way that it further fleshed out the world that the characters inhabit. We get a better look into the socio-politics of Earth and Mars, and more of an inside look into how they treat Belters (people who live in the [Jovian system](https://en.wikipedia.org/wiki/Moons_of_Jupiter)).
+
+I appreciate Corey's commitment to making varied characters, something that was seen in Leviathan Wakes as well. All four of the point-of-view characters in this book have very different outlooks on life, and changing point of view feels substantial.
+
+<br><br>
 
 ## Leviathan Wakes - James S. A. Corey
 #### publ. 2011, read 2022-09

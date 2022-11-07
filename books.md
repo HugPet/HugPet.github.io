@@ -7,9 +7,9 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
-## Abaddon's Gate - James S. A. Corey
-#### publ. 2013, read 2022-10
-<img class="bookimg" src="/img/books/ABG.jpg">
+## Cibola Burn - James S. A. Corey
+#### publ. 2014, read 2022-11
+<img class="bookimg" src="/img/books/CIB.jpg">
 
 -- STILL READING -- 
 
@@ -18,6 +18,23 @@ Here are some books I've read recently, and a short bit about what I thought of 
 <br><br><br><br>
 <br><br><br><br>
 <br>
+
+## Abaddon's Gate - James S. A. Corey
+#### publ. 2013, read 2022-10
+<img class="bookimg" src="/img/books/ABG.jpg">
+
+*"Optimism expressed as conservation of delta V."*
+
+The third entry to the Expanse series. 
+I'm a sucker for stories about precursors and made-up histories of made-up peoples, and this book delivered that in spades. 
+
+Something I like about the series so far is that every subsequent book tries to both expand the scope and introduce new 
+perspectives. The first book focused a lot on the noir-vibe, and the second focused more on the political aspect. This book
+introduces a new character, a priest, and wants to, sort of, answer the question of what belief in God means in a universe with
+aliens in it. I also think Corey balances well the tightrope between having real consequences for characters, while also keeping
+enough important characters alive that the reader grows attached to them. It sometimes verges on the unbelievable, but I still
+think it is quite good.
+
 
 ## Caliban's War - James S. A. Corey
 #### publ. 2012, read 2022-09

@@ -7,16 +7,34 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
-## Cibola Burn - James S. A. Corey
-#### publ. 2014, read 2022-11
-<img class="bookimg" src="/img/books/CIB.jpg">
+## The Metamorphosis, In the Penal Colony, The Judgement: A Story for F - Franz Kafka
+#### publ. 1913, 1913, 1919, read 2022-11
+<img class="bookimg" src="/img/books/TMP.jpg">
+
+This book consists of three short stories in one collection.
 
 -- STILL READING -- 
 
 <br><br><br><br>
 <br><br><br><br>
 <br><br><br><br>
-<br><br><br><br>
+<br><br>
+
+## Cibola Burn - James S. A. Corey
+#### publ. 2014, read 2022-11
+<img class="bookimg" src="/img/books/CIB.jpg">
+
+Fourth one down. 
+
+I still like the series, although I've identified some issues for me personally.
+- I wish the books were less episodic. Maybe this is something that changes in later books, but as it is now, every book introduces
+an immediate threat, and then neatly resolves that threat. 
+- At least with this last book, I felt that some of the threats were beginning to feel too large and too many. Maybe this is by design,
+but for me it lead to it feeling excessive and unfocused.
+
+Otherwise I felt that the book was good, the plot is interesting and moves at a quick pace, which is nice considering that
+I see these books almost as the book-equivalent of popcorn movies.
+
 <br>
 
 ## Abaddon's Gate - James S. A. Corey

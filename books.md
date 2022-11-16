@@ -7,18 +7,36 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
-## The Metamorphosis, In the Penal Colony, The Judgement: A Story for F - Franz Kafka
-#### publ. 1913, 1913, 1919, read 2022-11
-<img class="bookimg" src="/img/books/TMP.jpg">
-
-This book consists of three short stories in one collection.
+## Nemesis Games - James S. A. Corey
+#### publ. 2015, read 2022-11
+<img class="bookimg" src="/img/books/NEG.jpg">
 
 -- STILL READING -- 
 
 <br><br><br><br>
 <br><br><br><br>
 <br><br><br><br>
-<br><br>
+<br><br><br><br>
+<br>
+
+## The Metamorphosis, In the Penal Colony, The Judgement: A Story for F - Franz Kafka
+#### publ. 1913, 1913, 1919, read 2022-11
+<img class="bookimg" src="/img/books/TMP.jpg">
+
+*"At that moment, a quite unending flow of traffic streamed over the bridge."*
+
+This book consists of three short stories in one collection.
+
+Something I really like about Kafka's books is their 
+dense writing. A lot of information is conveyed with very few words. Having read The Trial, I knew
+that the law, and judgement, was a major theme Kafka wrote about. This continues
+in all three short stories here, I would say.
+
+Gregor is judged by his family for his metamorphosis, the officer judges the inmates
+of the penal colony to a torturus execution, and Georg's father sentences his son
+to "death by drowning".
+
+Having read more of Kafka I wish I knew more about literary analysis. 
 
 ## Cibola Burn - James S. A. Corey
 #### publ. 2014, read 2022-11

@@ -20,6 +20,8 @@ The project course is a longer course, which will finish after christmas. We
 are currently in the planning stages of the project, where we are defining
 team roles and overall code architecture. 
 
+For more information, see this [site](https://pepperonit.github.io/blog-site/).
+
 The mobile and distributed systems course is very interesting to me. It 
 treats some things which I am already experienced at from my time at Xarepo, 
 but there are other things which are totally new to me. In the lab for that

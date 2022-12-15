@@ -7,9 +7,9 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
-## Nemesis Games - James S. A. Corey
-#### publ. 2015, read 2022-11
-<img class="bookimg" src="/img/books/NEG.jpg">
+## Ashes of Babylon - James S. A. Corey
+#### publ. 2016, read 2022-11
+<img class="bookimg" src="/img/books/BAA.jpg">
 
 -- STILL READING -- 
 
@@ -18,6 +18,21 @@ Here are some books I've read recently, and a short bit about what I thought of 
 <br><br><br><br>
 <br><br><br><br>
 <br>
+
+## Nemesis Games - James S. A. Corey
+#### publ. 2015, read 2022-11
+<img class="bookimg" src="/img/books/NEG.jpg">
+
+I found this book to be a little dissapointing. It's the first book to 
+focus solely on Holden's group. I found the characters' motivations 
+flimsy, and the story's conclusion anti-climactic. 
+
+Something I did like was that this book focused a lot more on setting up
+future stories.
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br>
 
 ## The Metamorphosis, In the Penal Colony, The Judgement: A Story for F - Franz Kafka
 #### publ. 1913, 1913, 1919, read 2022-11

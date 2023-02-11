@@ -29,7 +29,7 @@ much every major character in the story so far, which I liked.
 Making Filip a point-of-view character was a nice way to provide
 some insight into the antagonist.
 
-My only gripe is in the conclusion, it felt that the final conflict
+My only gripe is in the conclusion, I felt that the final conflict
 was resolved in a very unpersonal manner.  
 
 <br><br><br><br>

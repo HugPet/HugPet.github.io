@@ -7,14 +7,31 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
-## Ashes of Babylon - James S. A. Corey
-#### publ. 2016, read 2022-11
-<img class="bookimg" src="/img/books/BAA.jpg">
+## Persepolis Rising - James S. A. Corey
+#### publ. 2017, read 2023-01
+<img class="bookimg" src="/img/books/PPR.jpg">
 
 -- STILL READING -- 
 
 <br><br><br><br>
 <br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br>
+
+## Ashes of Babylon - James S. A. Corey
+#### publ. 2016, read 2022-11
+<img class="bookimg" src="/img/books/BAA.jpg">
+
+This book served as the payoff to Nemesis Games' setup. 
+I think it worked well, this book had characters from pretty
+much every major character in the story so far, which I liked.
+Making Filip a point-of-view character was a nice way to provide
+some insight into the antagonist.
+
+My only gripe is in the conclusion, it felt that the final conflict
+was resolved in a very unpersonal manner.  
+
 <br><br><br><br>
 <br><br><br><br>
 <br>

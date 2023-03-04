@@ -6,10 +6,11 @@ published: true
 ---
 
 Here are some books I've read recently, and a short bit about what I thought of them.
+Note that there may be minor spoilers to some of the books discussed here.
 
 ## Persepolis Rising - James S. A. Corey
-#### publ. 2017, read 2023-01
-<img class="bookimg" src="/img/books/PPR.jpg">
+#### publ. 2021, read 2023-03
+<img class="bookimg" src="/img/books/LEF.jpg">
 
 -- STILL READING -- 
 
@@ -19,9 +20,48 @@ Here are some books I've read recently, and a short bit about what I thought of 
 <br><br><br><br>
 <br>
 
+## Tiamat's Wrath - James S. A. Corey
+#### publ. 2019, read 2023-02
+<img class="bookimg" src="/img/books/TIW.jpg">
+
+*"Speed isn't the only measure of progress."*
+
+This might be my favorite book in the series so far.
+Something I appreciated with the earlier books was
+the mixing of the supernatural threat of the protomolecule
+and the effect it had on human society. Books five and six
+are of course an extension of the effects, but they had less
+to do with the protomolecule directly. This book had the 
+perfect blend, in my opinion, of those two elements.
+
+The characters all evolved in interesting directions, and
+the ending was very bitter-sweet, in a way that left me 
+wanting to start reading the next book right away.
+
+<br><br><br><br>
+
+## Persepolis Rising - James S. A. Corey
+#### publ. 2017, read 2023-01
+<img class="bookimg" src="/img/books/PPR.jpg">
+
+*"No, Captain Holden. No sticks. When you fight gods, you storm heaven."*
+
+Persepolis Rising begins with a time skip of 30 years or so.
+I don't know that I like time skips all that much, but I think
+it serves a good purpose in this book series.
+
+The Laconian threat felt very credible, and I liked the 
+escalation of how the threat in books five and six was
+a distraction orchestrated by the leader of Laconia.
+
+<br><br><br><br>
+<br><br><br><br>
+
 ## Ashes of Babylon - James S. A. Corey
 #### publ. 2016, read 2022-11
 <img class="bookimg" src="/img/books/BAA.jpg">
+
+*"Where the air began and the crash couch ended was lost."*
 
 This book served as the payoff to Nemesis Games' setup. 
 I think it worked well, this book had characters from pretty
@@ -33,12 +73,13 @@ My only gripe is in the conclusion, I felt that the final conflict
 was resolved in a very unpersonal manner.  
 
 <br><br><br><br>
-<br><br><br><br>
-<br>
+<br><br><br>
 
 ## Nemesis Games - James S. A. Corey
 #### publ. 2015, read 2022-11
 <img class="bookimg" src="/img/books/NEG.jpg">
+
+*"Seems like the sort of thing Holden'd do."*
 
 I found this book to be a little dissapointing. It's the first book to 
 focus solely on Holden's group. I found the characters' motivations 
@@ -49,7 +90,7 @@ future stories.
 
 <br><br><br><br>
 <br><br><br><br>
-<br><br><br>
+<br><br>
 
 ## The Metamorphosis, In the Penal Colony, The Judgement: A Story for F - Franz Kafka
 #### publ. 1913, 1913, 1919, read 2022-11
@@ -74,6 +115,8 @@ Having read more of Kafka I wish I knew more about literary analysis.
 #### publ. 2014, read 2022-11
 <img class="bookimg" src="/img/books/CIB.jpg">
 
+*"I don't go for half."*
+
 Fourth one down. 
 
 I still like the series, although I've identified some issues for me personally.
@@ -84,8 +127,6 @@ but for me it lead to it feeling excessive and unfocused.
 
 Otherwise I felt that the book was good, the plot is interesting and moves at a quick pace, which is nice considering that
 I see these books almost as the book-equivalent of popcorn movies.
-
-<br>
 
 ## Abaddon's Gate - James S. A. Corey
 #### publ. 2013, read 2022-10

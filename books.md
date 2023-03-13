@@ -8,17 +8,20 @@ published: true
 Here are some books I've read recently, and a short bit about what I thought of them.
 Note that there may be minor spoilers to some of the books discussed here.
 
-## Persepolis Rising - James S. A. Corey
+## Leviathan Falls - James S. A. Corey
 #### publ. 2021, read 2023-03
 <img class="bookimg" src="/img/books/LEF.jpg">
 
--- STILL READING -- 
+*"The stars are still there."*
+
+The ninth and final book of the Expanse series. I thought
+it was very good, the ending was very bitter-sweet. I think
+that the new POV character was maybe not too impactful, but
+other than that I thought that the book hit all the right notes.
 
 <br><br><br><br>
 <br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br>
+<br><br><br>
 
 ## Tiamat's Wrath - James S. A. Corey
 #### publ. 2019, read 2023-02

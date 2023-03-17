@@ -7,6 +7,17 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 Note that there may be minor spoilers to some of the books discussed here.
+## Babel - R.F. Kuang
+#### publ. 2022, read 2023-03
+<img class="bookimg" src="/img/books/BAB.jpg">
+
+-- STILL READING -- 
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br>
 
 ## Leviathan Falls - James S. A. Corey
 #### publ. 2021, read 2023-03

@@ -7,9 +7,9 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 Note that there may be minor spoilers to some of the books discussed here.
-## Babel - R.F. Kuang
+## The Fall of Númenor - J.R.R. Tolkien - Edited by Brian Sibley
 #### publ. 2022, read 2023-03
-<img class="bookimg" src="/img/books/BAB.jpg">
+<img class="bookimg" src="/img/books/TFN.jpg">
 
 -- STILL READING -- 
 
@@ -18,6 +18,26 @@ Note that there may be minor spoilers to some of the books discussed here.
 <br><br><br><br>
 <br><br><br><br>
 <br>
+
+
+## Babel, or  - R.F. Kuang
+#### publ. 2022, read 2023-03
+<img class="bookimg" src="/img/books/BAB.jpg">
+
+*"You have such a great fear of freedom, brother. It's shackling you. You've identified so hard with the colonizer, you think any threat to them is a threat to you."*
+
+What a fantastic book. The level of character development achieved in
+such a short span is astonishing.
+
+Silver-working as a premise is very interesting, and
+served very well as a tool for making the world
+interesting at first, while not taking away from
+the very real atrocities committed by colonialism
+and colonizers. I think that it was very smart not
+to change history too much, as it made the 
+theme of the book ring more true.
+
+<br><br><br>
 
 ## Leviathan Falls - James S. A. Corey
 #### publ. 2021, read 2023-03

@@ -7,9 +7,10 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 Note that there may be minor spoilers to some of the books discussed here.
-## The Fall of Númenor - J.R.R. Tolkien - Edited by Brian Sibley
-#### publ. 2022, read 2023-03
-<img class="bookimg" src="/img/books/TFN.jpg">
+
+## Beren and Lúthien - J.R.R. Tolkien - Edited by Brian Sibley
+#### publ. 2017, read 2023-03
+<img class="bookimg" src="/img/books/BAL.jpg">
 
 -- STILL READING -- 
 
@@ -20,7 +21,27 @@ Note that there may be minor spoilers to some of the books discussed here.
 <br>
 
 
-## Babel, or  - R.F. Kuang
+## The Fall of Númenor - J.R.R. Tolkien - Edited by Brian Sibley
+#### publ. 2022, read 2023-03
+<img class="bookimg" src="/img/books/TFN.jpg">
+
+*"When therefore the last portent came they heeded it little."*
+
+I read a lot of J.R.R. Tolkien in my teens, and he was
+probably what sparked my interest for reading. I still
+feel that no other author can write with the same magic
+and enchantment that Tolkien can. I am honestly
+spellbound much of the time when reading Tolkien.
+
+I thought this book was very interesting, as there is
+not a lot published about the second age of middle-earth.
+
+The theme, as is often the case with Tolkien, are very biblical.
+The Fall of Númenor, specifically, is very much a story about
+the fall of man. What I find interesting about middle-earth is that
+man's actions are often put in context of elves' actions. 
+
+## Babel - R.F. Kuang
 #### publ. 2022, read 2023-03
 <img class="bookimg" src="/img/books/BAB.jpg">
 

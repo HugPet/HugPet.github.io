@@ -8,9 +8,9 @@ published: true
 Here are some books I've read recently, and a short bit about what I thought of them.
 Note that there may be minor spoilers to some of the books discussed here.
 
-## Beren and Lúthien - J.R.R. Tolkien - Edited by Brian Sibley
-#### publ. 2017, read 2023-03
-<img class="bookimg" src="/img/books/BAL.jpg">
+## Soul Music - Terry Pratchett
+#### publ. 1984, read 2023-03
+<img class="bookimg" src="/img/books/SLM.jpg">
 
 -- STILL READING -- 
 
@@ -20,6 +20,18 @@ Note that there may be minor spoilers to some of the books discussed here.
 <br><br><br><br>
 <br>
 
+## Beren and Lúthien - J.R.R. Tolkien - Edited by Christopher Tolkien
+#### publ. 2017, read 2023-03
+<img class="bookimg" src="/img/books/BAL.jpg">
+
+I liked this one. Tolkien's fae roots are very evident in this version
+of the story (an older version than the one in The Silmarillion),
+with a group of large, talking cats being important antagonists.
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br>
 
 ## The Fall of Númenor - J.R.R. Tolkien - Edited by Brian Sibley
 #### publ. 2022, read 2023-03

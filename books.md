@@ -8,14 +8,33 @@ published: true
 Here are some books I've read recently, and a short bit about what I thought of them.
 Note that there may be minor spoilers to some of the books discussed here.
 
-## Soul Music - Terry Pratchett
-#### publ. 1984, read 2023-03
-<img class="bookimg" src="/img/books/SLM.jpg">
+## The Worst Journey in the World - Apsley Cherry-Garrard
+#### publ. 1922, read 2023-03
+<img class="bookimg" src="/img/books/TWJ.jpg">
 
 -- STILL READING -- 
 
 <br><br><br><br>
 <br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br>
+
+
+## Soul Music - Terry Pratchett
+#### publ. 1984, read 2023-03
+<img class="bookimg" src="/img/books/SLM.jpg">
+
+*"Being sixteen is always difficult, even more so when there's a Death 
+in the family."*
+
+Terry Pratchett is really such a good comfort-book author.
+Easily read, very witty, likeable characters. I liked this
+one a bit more than the one I read last, *Lords and Ladies*.
+
+I liked Pratchett's take on rock culture. Ridcully is
+starting to grow on me as a character.
+
 <br><br><br><br>
 <br><br><br><br>
 <br>

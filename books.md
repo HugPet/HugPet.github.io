@@ -143,7 +143,7 @@ a distraction orchestrated by the leader of Laconia.
 <br><br><br><br>
 <br><br><br><br>
 
-## Ashes of Babylon - James S. A. Corey
+## Babylon's Ashes - James S. A. Corey
 #### publ. 2016, read 2022-11
 <img class="bookimg" src="/img/books/BAA.jpg">
 
